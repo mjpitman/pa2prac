@@ -1,0 +1,13 @@
+.navbar-custom {
+    height: 60px;
+  }
+
+  .favorite {
+    background-color: red;
+    color: white;
+  }
+  
+  .unfavorite {
+    background-color: green;
+    color: white;
+  }
